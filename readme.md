@@ -1,1 +1,1 @@
-# lara-multilang
+# lara-template
