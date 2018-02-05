@@ -1,0 +1,9 @@
+{
+    "name": "Translation",
+    "provider": "Botble\\Translation\\Providers\\TranslationServiceProvider",
+    "plugin": "Botble\\Translation\\Plugin",
+    "author": "Turash Chowdhury",
+    "url": "http://sangnguyen.info",
+    "version": "1.0",
+    "description": "Translation"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "LogViewer",
+    "provider": "Botble\\LogViewer\\Providers\\LogViewerServiceProvider",
+    "plugin": "Botble\\LogViewer\\Plugin",
+    "author": "Turash Chowdhury",
+    "url": "http://sangnguyen.info",
+    "version": "1.0",
+    "description": "LogViewer"
+}

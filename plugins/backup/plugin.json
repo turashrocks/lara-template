@@ -1,0 +1,9 @@
+{
+    "name": "Backup",
+    "provider": "Botble\\Backup\\Providers\\BackupServiceProvider",
+    "plugin": "Botble\\Backup\\Plugin",
+    "author": "Turash Chowdhury",
+    "url": "http://sangnguyen.info",
+    "version": "1.0",
+    "description": "Backup"
+}

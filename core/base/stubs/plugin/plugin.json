@@ -1,0 +1,9 @@
+{
+    "name": "{Plugin}",
+    "provider": "Botble\\{Plugin}\\Providers\\{Plugin}ServiceProvider",
+    "plugin": "Botble\\{Plugin}\\Plugin",
+    "author": "Turash Chowdhury",
+    "url": "http://sangnguyen.info",
+    "version": "1.0",
+    "description": "{Plugin}"
+}

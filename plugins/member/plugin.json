@@ -1,0 +1,9 @@
+{
+  "name": "Member",
+  "provider": "Botble\\Member\\Providers\\MemberServiceProvider",
+  "plugin": "Botble\\Member\\Plugin",
+  "author": "Turash Chowdhury",
+  "url": "http://sangnguyen.info",
+  "version": "1.0",
+  "description": "Manage member, user register/login"
+}
